@@ -5,6 +5,11 @@ public class Hello {
 		System.out.println("local Repository create Hello_jsp");
 		// 012456:hotfix edit by LeePyeongjae
 		System.out.println("hotfix edit/modify");
-		// 012456:end
+		// 012456:end  a
+
+		//0215238:origin/master edit by LeePyeongjae
+		System.out.println("Github edit");
+		
+
 	}
 }
