@@ -6,6 +6,5 @@ public class Hello {
 		// 012456:hotfix edit by LeePyeongjae
 		System.out.println("hotfix edit/modify");
 		// 012456:end
-		
 	}
 }
