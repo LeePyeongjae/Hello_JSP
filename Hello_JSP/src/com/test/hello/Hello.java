@@ -10,6 +10,9 @@ public class Hello {
 		//0215238:origin/master edit by LeePyeongjae
 		System.out.println("Github edit");
 		
+		//031524:local/master edit by LeePyeongjae
+		System.out.println("local edit 1234");		
+		
 		//0412518:origin/master edit by Lee
 		System.out.println("Github edit 4567");
 		//0412518 end
